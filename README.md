@@ -1,4 +1,4 @@
-![image info](./images/rackspace-logo.jpg)
+![image info](./images/rackspace-logo.jpg){ width=50% }
 
 
 # emtech-2021
