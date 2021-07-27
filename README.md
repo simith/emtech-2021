@@ -1,7 +1,7 @@
 ![image info](./images/rackspace-logo.jpg){ width=50% }
 
 
-# emtech-2021
+# Emerging tech 2021
 The repository for the Rackspace Emerging technologies 2021 event
 
 # Table of contents
